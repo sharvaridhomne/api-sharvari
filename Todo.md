@@ -1,4 +1,0 @@
--[] Dashboard
--[]Lead
- -[] Add lead
- -[] View lead
